@@ -1,0 +1,16 @@
+{
+  "workspace": {
+    "id": "0b527b13-c967-4df8-b78c-51c01bf7264f"
+  },
+  "entities": {
+    "collections": [
+      "../postman/collections/app-namespace-10/httpbin-deployment-10.postman_collection.json"
+    ],
+    "environments": [
+      "../postman/environments/Testing (Beta).postman_environment.json"
+    ],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
