@@ -1,0 +1,9 @@
+{
+  "info": {
+    "_postman_id": "b91b84c1-00ab-4b99-9697-e77c6242d2d6",
+    "name": "<img src=x onerror=alert('XSS')>",
+    "description": "This collection was auto-generated via the API Catalog Onboarding process.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}
